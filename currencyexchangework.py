@@ -272,7 +272,3 @@ window.mainloop()
 
 
 # In[ ]:
-
-
-
-
